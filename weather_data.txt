@@ -6,3 +6,4 @@
 {"location": "Cascais", "timestamp": "2024-06-13T07:28:08.291471+00:00", "temperature": 16.77000000000004, "humidity": 72, "description": "overcast clouds"}
 {"location": "Qila Saifullah", "timestamp": "2024-06-13T07:39:13.908312+00:00", "temperature": 32.33000000000004, "humidity": 6, "description": "clear sky"}
 {"location": "Sh\u0101h\u0101pur", "timestamp": "2024-06-13T07:39:25.809979+00:00", "temperature": 32.26000000000005, "humidity": 59, "description": "overcast clouds"}
+{"location": "Madanapalle", "timestamp": "2024-06-13T07:55:29.331785+00:00", "temperature": 27.24000000000001, "humidity": 56, "description": "overcast clouds"}

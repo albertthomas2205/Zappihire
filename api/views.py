@@ -14,8 +14,8 @@ class FetchWeatherDataView(APIView):
         api_key = settings.OPENWEATHER_API_KEY
         
         # Generate random latitude and longitude
-        lat = round(random.uniform(-40, 40), 2)  # Round to 6 decimal places
-        lon = round(random.uniform(-40, 40), 2)  # Round to 6 decimal places
+        lat = round(random.uniform(8.0667, 37.1), 6)  # Latitude: 8° 4′ to 37° 6′ north
+        lon = round(random.uniform(68.1167, 97.4167), 6)  # Round to 6 decimal places
         # lat = -39.667775
         # lon =  11.401196
         print(lat,lon)

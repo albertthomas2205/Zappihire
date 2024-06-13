@@ -4,3 +4,5 @@
 {"location": "Kunene", "timestamp": "2024-06-13T07:25:27.517978+00:00", "temperature": 23.02000000000004, "humidity": 20, "description": "clear sky"}
 {"location": "Mhamid", "timestamp": "2024-06-13T07:25:33.634014+00:00", "temperature": 26.879999999999995, "humidity": 15, "description": "clear sky"}
 {"location": "Cascais", "timestamp": "2024-06-13T07:28:08.291471+00:00", "temperature": 16.77000000000004, "humidity": 72, "description": "overcast clouds"}
+{"location": "Qila Saifullah", "timestamp": "2024-06-13T07:39:13.908312+00:00", "temperature": 32.33000000000004, "humidity": 6, "description": "clear sky"}
+{"location": "Sh\u0101h\u0101pur", "timestamp": "2024-06-13T07:39:25.809979+00:00", "temperature": 32.26000000000005, "humidity": 59, "description": "overcast clouds"}

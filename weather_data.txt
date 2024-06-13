@@ -1,0 +1,6 @@
+{"location": "Tandalt\u012b", "timestamp": "2024-06-13T07:21:07.126897+00:00", "temperature": 31.120000000000005, "humidity": 43, "description": "overcast clouds"}
+{"location": "Abomsa", "timestamp": "2024-06-13T07:24:27.118118+00:00", "temperature": 27.400000000000034, "humidity": 44, "description": "broken clouds"}
+{"location": "Koster", "timestamp": "2024-06-13T07:24:33.404028+00:00", "temperature": 15.160000000000025, "humidity": 28, "description": "clear sky"}
+{"location": "Kunene", "timestamp": "2024-06-13T07:25:27.517978+00:00", "temperature": 23.02000000000004, "humidity": 20, "description": "clear sky"}
+{"location": "Mhamid", "timestamp": "2024-06-13T07:25:33.634014+00:00", "temperature": 26.879999999999995, "humidity": 15, "description": "clear sky"}
+{"location": "Cascais", "timestamp": "2024-06-13T07:28:08.291471+00:00", "temperature": 16.77000000000004, "humidity": 72, "description": "overcast clouds"}

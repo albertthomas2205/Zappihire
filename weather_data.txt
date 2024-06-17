@@ -7,3 +7,12 @@
 {"location": "Qila Saifullah", "timestamp": "2024-06-13T07:39:13.908312+00:00", "temperature": 32.33000000000004, "humidity": 6, "description": "clear sky"}
 {"location": "Sh\u0101h\u0101pur", "timestamp": "2024-06-13T07:39:25.809979+00:00", "temperature": 32.26000000000005, "humidity": 59, "description": "overcast clouds"}
 {"location": "Madanapalle", "timestamp": "2024-06-13T07:55:29.331785+00:00", "temperature": 27.24000000000001, "humidity": 56, "description": "overcast clouds"}
+{"location": "Deshnoke", "timestamp": "2024-06-17T04:39:30.147937+00:00", "temperature": 38.43000000000001, "humidity": 32, "description": "clear sky"}
+{"location": "Pathein", "timestamp": "2024-06-17T14:54:55.341365+00:00", "temperature": 28.400000000000034, "humidity": 85, "description": "overcast clouds"}
+{"location": "R\u0101machandrapuram", "timestamp": "2024-06-17T15:00:55.298987+00:00", "temperature": 33.24000000000001, "humidity": 66, "description": "broken clouds"}
+{"location": "Darlawn", "timestamp": "2024-06-17T15:08:48.252086+00:00", "temperature": 17.200000000000045, "humidity": 98, "description": "overcast clouds"}
+{"location": "Duokake", "timestamp": "2024-06-17T15:08:53.556733+00:00", "temperature": 7.240000000000009, "humidity": 42, "description": "overcast clouds"}
+{"location": "Pyapon", "timestamp": "2024-06-17T15:08:58.331423+00:00", "temperature": 27.510000000000048, "humidity": 87, "description": "overcast clouds"}
+{"location": "Uravakonda", "timestamp": "2024-06-17T15:09:05.038085+00:00", "temperature": 26.890000000000043, "humidity": 72, "description": "moderate rain"}
+{"location": "Konark", "timestamp": "2024-06-17T15:09:10.856190+00:00", "temperature": 29.140000000000043, "humidity": 84, "description": "overcast clouds"}
+{"location": "Ratnagiri", "timestamp": "2024-06-17T15:12:34.005591+00:00", "temperature": 29.350000000000023, "humidity": 81, "description": "broken clouds"}
